@@ -19,6 +19,9 @@ Now add the len of the word to the declared variable
 print the output
 ## PROGRAM:
 ```
+# program to count the number of words in a file
+# NAME : VINOTH M P
+# Reg no : 212223240182
 num=0
 with open("file.txt","r") as f:
     for in in f:
@@ -27,7 +30,9 @@ with open("file.txt","r") as f:
 print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
-![alt text](image.png)
+![image](https://github.com/vinothmp21102005/Word-Count/assets/145972215/0c19fbc5-a3a7-4223-9a1a-ca59e1c347e1)
+
+
 
 
 ## RESULT:
